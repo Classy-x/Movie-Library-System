@@ -6,6 +6,11 @@ A web application for managing and exploring your movie collection.
 
 The Movie Library System App is designed to help users organize and keep track of their movie collections. Whether you're a movie enthusiast or just want to manage your favorite films, this app provides an easy-to-use interface for adding, updating, and exploring movies.
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+
 ## Features
 
 - **User Authentication:**
